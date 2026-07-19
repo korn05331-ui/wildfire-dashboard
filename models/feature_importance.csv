@@ -1,0 +1,7 @@
+﻿feature,importance,method
+humidity,0.2694184028606223,|coef|
+wind_speed,0.15499557677238682,|coef|
+rain_14d,0.1400265749077463,|coef|
+temperature,0.053594502171350665,|coef|
+rain,0.016439499518093332,|coef|
+rain_7d,0.010111922508603889,|coef|
