@@ -1,0 +1,4 @@
+# ติดตั้งฟอนต์ไทยผ่าน apt-get (Streamlit Cloud รองรับ)
+# ใช้ฟอนต์ TLWG (Loma, Garuda, Kinnari) ที่รองรับภาษาไทย
+fonts-thai-tlwg
+fonts-noto-cjk
